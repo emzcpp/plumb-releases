@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0",
-  "url": "https://github.com/emzcpp/plumb-releases/releases/download/v0.1.0/Plumb-0.1.0.zip",
-  "sha256": "3a97fc7e7fa8f4ac2ad572417d20f0d5f2a5a27201a6afa402b5e15300df7c0b",
-  "signature": "7617f5a53cfad9e80131895480ada9b2385ca1c72c0d80214da11b866b1b72b67c2dc0f6023b3c1363d262693c0c76c31c5aebbd2c5b205e07e5e4d0fbef900d",
-  "notes": "First beta build"
+  "version": "0.1.1",
+  "url": "https://github.com/emzcpp/plumb-releases/releases/download/v0.1.1/Plumb-0.1.1.zip",
+  "sha256": "5a7425c1585121c3e3b79282864235c70de739dd0074721b581bb5e3ae981b41",
+  "signature": "97c8739e291d56aae5ec9f3bdd7e6a9d08cb322a9da1a69417f7976b89498667b53bd045ec4d318719e43d747e970b415e02625fa1c38e3330c06a0e45d9270c",
+  "notes": "Test auto-update"
 }

@@ -1,7 +1,7 @@
 {
-  "version": "0.1.1",
-  "url": "https://github.com/emzcpp/plumb-releases/releases/download/v0.1.1/Plumb-0.1.1.zip",
-  "sha256": "5a7425c1585121c3e3b79282864235c70de739dd0074721b581bb5e3ae981b41",
-  "signature": "97c8739e291d56aae5ec9f3bdd7e6a9d08cb322a9da1a69417f7976b89498667b53bd045ec4d318719e43d747e970b415e02625fa1c38e3330c06a0e45d9270c",
-  "notes": "Test auto-update"
+  "version": "0.1.2",
+  "url": "https://github.com/emzcpp/plumb-releases/releases/download/v0.1.2/Plumb-0.1.2.zip",
+  "sha256": "94d6c8840f6cd91ecc44537f42aef3d5d894539f91c47465ab805a6a5868fd7b",
+  "signature": "6d20f45ed54fa1f235327bfe52d0c74617aaed3987bd686a17a59e942aa64849d7dcb43d425147bada2b2b8618abf0c59560b105c3300a479a8540ea332b280c",
+  "notes": "Stability release: full code-audit fixes — recordings survive failures and navigation (real Retry/Resume), hardened auto-updater, honest key validation, transient raw audio, smarter long-meeting summaries, cleaner audio for transcription."
 }

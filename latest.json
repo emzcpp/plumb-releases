@@ -1,7 +1,7 @@
 {
-  "version": "0.1.3",
-  "url": "https://github.com/emzcpp/plumb-releases/releases/download/v0.1.3/Plumb-0.1.3.zip",
-  "sha256": "d255ff295d47178da89cbfc7219a3e0523a6da5832deb72a8ad64602490daaea",
-  "signature": "31a365a2509091f725534aa3a4236eec5c271b328eb735929f8b43fb3e34a8859353fa973dae1c838cfc02b6babc27d9c1c1f585a2c315f20eb62361e0cb7207",
-  "notes": "A big reliability + polish update. Recordings can no longer be lost to a stray click or a mid-process failure (real Retry/Resume), and the recording meter is a smooth equaliser. Honest privacy wording everywhere, theme + settings that actually persist, Enter/Esc in dialogs, and an app-wide pass that makes every control respond to hover, click and keyboard focus with smoother motion. Plus the full earlier code-audit fixes carried forward."
+  "version": "0.1.4",
+  "url": "https://github.com/emzcpp/plumb-releases/releases/download/v0.1.4/Plumb-0.1.4.zip",
+  "sha256": "b8f5f4934fa47b5a9bf2d9a5077841663f7b86d384b12cd8830c47b6e2c8e829",
+  "signature": "93bd882720d42ebe1de533cdd17b0fd6a0327a5332b4ad6da0ca668d6ab92c865c283562122108e4b1306132063443f1aab461153ccdadbcb96afe2a85b3ef09",
+  "notes": "Experimental: Import from YouTube — enable it in Settings → Experimental, then paste a video URL to download + transcribe its audio on-device (opt-in, off by default). Plumb installs yt-dlp + ffmpeg via Homebrew for you, and can install Homebrew itself if needed."
 }

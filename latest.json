@@ -1,7 +1,7 @@
 {
-  "version": "0.1.4",
-  "url": "https://github.com/emzcpp/plumb-releases/releases/download/v0.1.4/Plumb-0.1.4.zip",
-  "sha256": "b8f5f4934fa47b5a9bf2d9a5077841663f7b86d384b12cd8830c47b6e2c8e829",
-  "signature": "93bd882720d42ebe1de533cdd17b0fd6a0327a5332b4ad6da0ca668d6ab92c865c283562122108e4b1306132063443f1aab461153ccdadbcb96afe2a85b3ef09",
-  "notes": "Experimental: Import from YouTube — enable it in Settings → Experimental, then paste a video URL to download + transcribe its audio on-device (opt-in, off by default). Plumb installs yt-dlp + ffmpeg via Homebrew for you, and can install Homebrew itself if needed."
+  "version": "0.1.5",
+  "url": "https://github.com/emzcpp/plumb-releases/releases/download/v0.1.5/Plumb-0.1.5.zip",
+  "sha256": "c4327364f28a2b027c820c1cdad2d56f64e66ecee53426351bd92e73399c81a8",
+  "signature": "ed5aa078bd18c9c8806f7f24233eb5a3e1edf2bf510fb772597ca52f4d13db407ca153dee8bd1020e5c9066edd9ce759b84895b4f15a7b15494247a63753da09",
+  "notes": "Import from YouTube fixes: imported videos now appear at the top of your Library right after importing; a Cancel button lets you stop a download in progress; and long videos are handled more reliably."
 }

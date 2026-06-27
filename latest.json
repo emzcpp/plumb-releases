@@ -1,7 +1,7 @@
 {
-  "version": "0.1.5",
-  "url": "https://github.com/emzcpp/plumb-releases/releases/download/v0.1.5/Plumb-0.1.5.zip",
-  "sha256": "c4327364f28a2b027c820c1cdad2d56f64e66ecee53426351bd92e73399c81a8",
-  "signature": "ed5aa078bd18c9c8806f7f24233eb5a3e1edf2bf510fb772597ca52f4d13db407ca153dee8bd1020e5c9066edd9ce759b84895b4f15a7b15494247a63753da09",
-  "notes": "Import from YouTube fixes: imported videos now appear at the top of your Library right after importing; a Cancel button lets you stop a download in progress; and long videos are handled more reliably."
+  "version": "0.1.6",
+  "url": "https://github.com/emzcpp/plumb-releases/releases/download/v0.1.6/Plumb-0.1.6.zip",
+  "sha256": "76b89d68d93b934c1b3f61da02215deb5873d6806cb29592b8a7dbf70e4eafd3",
+  "signature": "f990fefcc03c0bfeea5268c96290029ccb85c9ea0e2e53c604321dc145e59fc6470a7b7e3863903e875422eecd525436d56b28de4216f7aaf7bbc809c90d480f",
+  "notes": "Import from YouTube now supports combining multiple links into a single transcript — paste several video URLs (one per line) and Plumb stitches their audio into one meeting, in order. Plus per-video download progress and minor polish."
 }
